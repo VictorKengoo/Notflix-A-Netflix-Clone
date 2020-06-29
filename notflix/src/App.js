@@ -3,7 +3,7 @@ import "./css/App.css";
 
 import { Switch, Route } from "react-router-dom";
 
-import Main from "./pages/";
+import Main from "./pages/index";
 
 function App() {
   return (
